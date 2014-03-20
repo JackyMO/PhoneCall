@@ -1,0 +1,22 @@
+h1
+{
+	color: white;
+	font-size: 15px;
+}
+p
+{
+	font-size: 24px;
+	color:#8ca92e;
+	font-weight: bold;
+}
+
+.block
+{
+	width: 49%;
+	min-height: 116px;
+	margin: 1px 1px 1px 1px;
+	border-color: white;
+	border: dotted 1px;
+	float: left;
+	text-align: center;
+}
